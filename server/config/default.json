@@ -1,0 +1,6 @@
+{
+    "serverPort" : 5000,
+    "dbUrl" : "mongodb+srv://Vlad:1@spp.rvgjz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretKey": "mern-secret-key"
+  }
+  
